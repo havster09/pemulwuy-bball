@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{pemulwuy_bball node_modules}" />
+    <file url="PROJECT" libraries="{node-DefinitelyTyped, pemulwuy_bball node_modules, phaser.comments.d.ts}" />
+    <includedPredefinedLibrary name="ECMAScript 6" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+{ 
+    
+    "ring": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   -4, 15  ,  -1, 0  ,  2, 15  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   18, 0  ,  21, 15  ,  15, 15  ]
+        }
+    ]
+}

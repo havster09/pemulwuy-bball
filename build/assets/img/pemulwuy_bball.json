@@ -1,0 +1,244 @@
+{"frames": [
+
+{
+	"filename": "ball",
+	"frame": {"x":51,"y":227,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":23},
+	"sourceSize": {"w":23,"h":23}
+},
+{
+	"filename": "ball_in_rack",
+	"frame": {"x":76,"y":227,"w":28,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":17},
+	"sourceSize": {"w":28,"h":17}
+},
+{
+	"filename": "ball_rack",
+	"frame": {"x":1,"y":227,"w":48,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":23},
+	"sourceSize": {"w":48,"h":23}
+},
+{
+	"filename": "basket",
+	"frame": {"x":106,"y":227,"w":17,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":15},
+	"sourceSize": {"w":17,"h":15}
+},
+{
+	"filename": "elbow_bg",
+	"frame": {"x":1,"y":1,"w":320,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":224},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "front_bg",
+	"frame": {"x":323,"y":1,"w":320,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":224},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0000_jor_brd_061",
+	"frame": {"x":1620,"y":125,"w":66,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":102,"w":66,"h":122},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0001_jor_brd_062",
+	"frame": {"x":1747,"y":119,"w":88,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":106,"y":108,"w":88,"h":116},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0002_jor_brd_065",
+	"frame": {"x":1463,"y":143,"w":96,"h":111},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":97,"y":113,"w":96,"h":111},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0003_jor_brd_066",
+	"frame": {"x":1704,"y":1,"w":89,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":105,"y":108,"w":89,"h":116},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0004_jor_brd_067",
+	"frame": {"x":1577,"y":1,"w":69,"h":122},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":102,"w":69,"h":122},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0005_jor_brd_068",
+	"frame": {"x":1519,"y":1,"w":56,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":98,"w":56,"h":126},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0006_jor_brd_069",
+	"frame": {"x":1519,"y":1,"w":56,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":98,"w":56,"h":126},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0007_jor_brd_070",
+	"frame": {"x":1519,"y":1,"w":56,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":98,"w":56,"h":126},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "get_ball/get_ball_0008_jor_brd_071",
+	"frame": {"x":1519,"y":1,"w":56,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":151,"y":98,"w":56,"h":126},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0000_jor_brd_114",
+	"frame": {"x":1648,"y":1,"w":54,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":103,"w":54,"h":121},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0001_jor_brd_115",
+	"frame": {"x":1795,"y":1,"w":57,"h":115},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":109,"w":57,"h":115},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0002_jor_brd_116",
+	"frame": {"x":1561,"y":129,"w":57,"h":125},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":99,"w":57,"h":125},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0003_jor_brd_117",
+	"frame": {"x":1688,"y":124,"w":57,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":107,"w":57,"h":117},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0004_jor_brd_118",
+	"frame": {"x":1463,"y":1,"w":54,"h":140},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":144,"y":84,"w":54,"h":140},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0005_jor_brd_119",
+	"frame": {"x":1403,"y":1,"w":58,"h":170},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":54,"w":58,"h":170},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0006_jor_brd_123",
+	"frame": {"x":1344,"y":1,"w":57,"h":178},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":141,"y":46,"w":57,"h":178},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0007_jor_brd_125",
+	"frame": {"x":1284,"y":1,"w":58,"h":182},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":42,"w":58,"h":182},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0008_jor_brd_126",
+	"frame": {"x":1223,"y":1,"w":59,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":34,"w":59,"h":190},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0009_jor_brd_127",
+	"frame": {"x":1163,"y":1,"w":58,"h":196},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":28,"w":58,"h":196},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0010_jor_brd_128",
+	"frame": {"x":1103,"y":1,"w":58,"h":201},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":143,"y":23,"w":58,"h":201},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0011_jor_brd_129",
+	"frame": {"x":1035,"y":1,"w":66,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":19,"w":66,"h":205},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "shoot/shoot_0012_jor_brd_130",
+	"frame": {"x":967,"y":1,"w":66,"h":209},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":140,"y":15,"w":66,"h":209},
+	"sourceSize": {"w":320,"h":224}
+},
+{
+	"filename": "side_bg",
+	"frame": {"x":645,"y":1,"w":320,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":320,"h":224},
+	"sourceSize": {"w":320,"h":224}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pemulwuy_bball/pemulwuy_bball.png",
+	"format": "RGBA8888",
+	"size": {"w":1853,"h":255},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b7ee804c57ec6a455b0ad8ed602e6ef:bf90024e3b0bc88ffe4c83cd8843e946:14dd784e0f1c9e263f68e3ab9355967f$"
+}
+}
